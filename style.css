@@ -13,7 +13,7 @@ body {
     background-color: rgb(202, 88, 126);
     margin: 0;
     padding: 0;
-    display: flex;
+    display: flex; /* fleXbox */
     justify-content: center;
 }
 
@@ -120,14 +120,14 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/apple-button.png');
+    background-image: url('img/apple-button.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/googleplay-button.png');
+    background-image: url('img/googleplay-button.png');
 }
 
-/* media queries */
+/* media queries responsividade */
 
 
 @media (max-width: 1024px) {

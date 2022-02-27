@@ -14,6 +14,7 @@ body{
     background-color: rgb(243,243,243);
     margin: 0;
     padding: 0;
+    display: flex;
     justify-content: center;
 }
 
@@ -31,6 +32,6 @@ body{
     justify-content: center;
     width: 50%;    
 }
-.instagram-phone{
+.instagram-phone img{
     height: 50rem;
 }
